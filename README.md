@@ -25,3 +25,10 @@ As of **August 1, 2024**, the backtest results for this strategy on major indice
 _Note: These results are based on historical data and may not accurately predict future performance._
 
 
+
+## SCREENSHOT 
+
+<img width="500" alt="Screenshot 2024-09-01 at 9 16 11 PM" src="https://github.com/user-attachments/assets/f2b7ebb4-3618-46fa-9340-af324b846b22">
+
+
+
