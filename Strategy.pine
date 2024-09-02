@@ -1,5 +1,5 @@
 //@version=5
-strategy(title='Junaid’s Enhanced Strategy', shorttitle='J STRAT+', initial_capital=1000, currency=currency.GBP, default_qty_value=100, default_qty_type=strategy.percent_of_equity, commission_type=strategy.commission.percent, commission_value=0.075, overlay=true)
+strategy(title='Junaid’s Enhanced Strategy', shorttitle='J STRAT+', initial_capital=1000, currency=currency.CAD, default_qty_value=100, default_qty_type=strategy.percent_of_equity, commission_type=strategy.commission.percent, commission_value=0.075, overlay=true)
 
 i_startTime = input.time(defval=timestamp('01 Jan 2020 12:00 +0000'), title='Backtest Start')
 i_endTime = input.time(defval=timestamp('01 Jan 2024 12:00 +0000'), title='Backtest End')
